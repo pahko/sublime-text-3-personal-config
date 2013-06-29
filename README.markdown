@@ -19,7 +19,7 @@ Sublime Linter:
     ./init.sh
     cd ..
     rm -rf SublimeLinter
-    git clone git://github.com/SublimeLinter/SublimeLinter.git
+    git clone git://github.com/SublimeLinter/SublimeLinter.git -b sublime-text-3
     cd SublimeLinter/
     git checkout sublime-text-3
 
