@@ -1,28 +1,19 @@
 Personal config to Sublime Text 3:
 
-Django Syntax :
+# Packages
 
-    https://github.com/squ1b3r/Djaneiro
-
-Sublime Linter:
-
-    https://github.com/SublimeLinter/SublimeLinter
-
+* [Package Control](https://sublime.wbond.net)
+* Django Syntax ([Djaneiro](https://github.com/squ1b3r/Djaneiro)) 
+* [SublimeLinter3](https://github.com/SublimeLinter/SublimeLinter3)
+    
 # Install Instructions:
 
 **Mac OSX**
 
-    cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages
+    cd ~/Library/Application\ Support/Sublime\ Text\ 3/Installed\ Packages/
+    curl "https://sublime.wbond.net/Package%20Control.sublime-package" -o "Package Control.sublime-package"    
+    cd ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/
     rm -rf User
     git clone https://pahko@github.com/pahko/sublime-text-3-personal-config.git User
-    cd User
-    ./init.sh
-    cd ..
-    rm -rf SublimeLinter
-    git clone git://github.com/SublimeLinter/SublimeLinter.git -b sublime-text-3
-    cd SublimeLinter/
-    git checkout sublime-text-3
-
-# Update packages
-
-    ./init.sh
+   
+Enjoy :).
