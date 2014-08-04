@@ -1,7 +1,19 @@
 {
+	"bold_folder_labels": true,
 	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"ensure_newline_at_eof_on_save": true,
+	"highlight_line": true,
 	"ignored_packages":
 	[
 		"Vintage"
-	]
+	],
+	"rulers":
+	[
+		80,
+		120
+	],
+	"translate_tabs_to_spaces": true,
+	"trim_automatic_white_space": true,
+	"trim_trailing_white_space_on_save": true,
+	"word_wrap": false
 }
