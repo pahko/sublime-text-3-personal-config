@@ -10,7 +10,7 @@ Personal config to Sublime Text 3:
 * [`requirements.txt` autocompletion](https://github.com/wuub/requirementstxt)
 
 NOTE:
-Make sure `flake8` available in your `PATH`.
+Make sure `flake8` is available in your `PATH`.
 
 # Install Instructions:
 
