@@ -2,6 +2,7 @@
 	"installed_packages":
 	[
 		"Djaneiro",
+		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-flake8"
 	]
