@@ -7,6 +7,7 @@ Personal config to Sublime Text 3:
 * [SublimeLinter3](https://github.com/SublimeLinter/SublimeLinter3)
     * [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
 * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)
+* [`requirements.txt` autocompletion](https://github.com/wuub/requirementstxt)
 
 NOTE:
 Make sure `flake8` available in your `PATH`.
