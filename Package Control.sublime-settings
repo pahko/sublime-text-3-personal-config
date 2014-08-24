@@ -2,7 +2,9 @@
 	"installed_packages":
 	[
 		"Djaneiro",
+		"OmniMarkupPreviewer",
 		"requirementstxt",
+		"Restructured Text (RST) Snippets",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-flake8"

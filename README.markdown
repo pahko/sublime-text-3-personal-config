@@ -8,6 +8,8 @@ Personal config to Sublime Text 3:
     * [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
 * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)
 * [`requirements.txt` autocompletion](https://github.com/wuub/requirementstxt)
+* [OmniMarkupPreviewer](http://theo.im/OmniMarkupPreviewer/)
+    * [Restructured Text (RST) Snippets](https://github.com/mgaitan/sublime-rst-completion)
 
 NOTE:
 Make sure `flake8` is available in your `PATH`.
