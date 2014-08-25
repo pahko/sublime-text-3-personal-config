@@ -3,14 +3,15 @@
 	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"highlight_line": true,
+	"font_face": "Monaco",
 	"ignored_packages":
 	[
 		"Vintage"
 	],
 	"rulers":
 	[
-		80,
-		120
+		79,
+		119
 	],
 	"translate_tabs_to_spaces": true,
 	"trim_automatic_white_space": true,
