@@ -24,6 +24,7 @@
         "paths": {
             "linux": [],
             "osx": [
+                "/Users/franciscocristobal/.virtualenvs/linter/bin/",
                 "/Users/pahko/.virtualenvs/linter/bin/"
             ],
             "windows": []
