@@ -12,7 +12,7 @@ Personal config to Sublime Text 3:
     * [Restructured Text (RST) Snippets](https://github.com/mgaitan/sublime-rst-completion)
 
 NOTE:
-Make sure `flake8` is available in your `PATH`.
+Make sure `flake8==2.2.2` is available in your `PATH`.
 
 # Install Instructions:
 
