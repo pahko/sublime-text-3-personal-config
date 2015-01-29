@@ -1,10 +1,18 @@
 {
+	"in_process_packages":
+	[
+	],
+	"installed_dependencies":
+	[
+	],
 	"installed_packages":
 	[
 		"Djaneiro",
 		"OmniMarkupPreviewer",
+		"Package Control",
 		"requirementstxt",
 		"Restructured Text (RST) Snippets",
+		"Sass",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-flake8"
