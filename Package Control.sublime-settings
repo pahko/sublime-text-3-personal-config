@@ -1,10 +1,4 @@
 {
-	"in_process_packages":
-	[
-	],
-	"installed_dependencies":
-	[
-	],
 	"installed_packages":
 	[
 		"Djaneiro",
@@ -16,5 +10,8 @@
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-flake8"
+	],
+	"installed_dependencies":
+	[
 	]
 }
