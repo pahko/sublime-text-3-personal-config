@@ -10,6 +10,7 @@ Personal config to Sublime Text 3:
 * [`requirements.txt` autocompletion](https://github.com/wuub/requirementstxt)
 * [OmniMarkupPreviewer](http://theo.im/OmniMarkupPreviewer/)
     * [Restructured Text (RST) Snippets](https://github.com/mgaitan/sublime-rst-completion)
+* [SASS](https://github.com/nathos/sass-textmate-bundle)
 
 NOTE:
 Make sure `flake8==2.2.2` is available in your `PATH`.
