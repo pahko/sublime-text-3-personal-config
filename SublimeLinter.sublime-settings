@@ -14,6 +14,7 @@
                 "builtins": "",
                 "excludes": [],
                 "ignore": "",
+                "jobs": "1",
                 "max-complexity": 10,
                 "max-line-length": 119,
                 "select": ""
@@ -21,11 +22,12 @@
         },
         "mark_style": "outline",
         "no_column_highlights_line": false,
+        "passive_warnings": false,
         "paths": {
             "linux": [],
             "osx": [
                 "/Users/franciscocristobal/.virtualenvs/linter/bin/",
-                "/Users/pahko/.virtualenvs/linter/bin/"
+                "/Users/pahko/.virtualenvs/sublime/bin/"
             ],
             "windows": []
         },

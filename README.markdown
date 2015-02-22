@@ -11,9 +11,12 @@ Personal config to Sublime Text 3:
 * [OmniMarkupPreviewer](http://theo.im/OmniMarkupPreviewer/)
     * [Restructured Text (RST) Snippets](https://github.com/mgaitan/sublime-rst-completion)
 * [SASS](https://github.com/nathos/sass-textmate-bundle)
+* [Ghost Text](https://packagecontrol.io/packages/GhostText)
 
-NOTE:
-Make sure `flake8==2.2.2` is available in your `PATH`.
+##### NOTE:
+
+* Make sure `flake8==2.2.2` is available in your `PATH`.
+* Don't forget to install the chrome/firefox extension/addon for Ghost Text.
 
 # Install Instructions:
 
