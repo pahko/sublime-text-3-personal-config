@@ -12,10 +12,11 @@ Personal config to Sublime Text 3:
     * [Restructured Text (RST) Snippets](https://github.com/mgaitan/sublime-rst-completion)
 * [SASS](https://github.com/nathos/sass-textmate-bundle)
 * [Ghost Text](https://packagecontrol.io/packages/GhostText)
+* [Handlebars](https://github.com/daaain/Handlebars)
 
 ##### NOTE:
 
-* Make sure `flake8==2.2.2` is available in your `PATH`.
+* Make sure `flake8` is available in your `PATH`.
 * Don't forget to install the chrome/firefox extension/addon for Ghost Text.
 
 # Install Instructions:
