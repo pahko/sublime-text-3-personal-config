@@ -7,6 +7,7 @@
 	],
 	"installed_packages":
 	[
+		"ApplySyntax",
 		"Djaneiro",
 		"GhostText",
 		"Handlebars",
@@ -15,6 +16,7 @@
 		"requirementstxt",
 		"Restructured Text (RST) Snippets",
 		"Sass",
+		"Seti_UI",
 		"SideBarEnhancements",
 		"SublimeLinter",
 		"SublimeLinter-flake8"

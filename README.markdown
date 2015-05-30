@@ -13,6 +13,8 @@ Personal config to Sublime Text 3:
 * [SASS](https://github.com/nathos/sass-textmate-bundle)
 * [Ghost Text](https://packagecontrol.io/packages/GhostText)
 * [Handlebars](https://github.com/daaain/Handlebars)
+* [ApplySyntax](https://github.com/facelessuser/ApplySyntax)
+* [Seti_UI](https://packagecontrol.io/packages/Seti_UI)
 
 ##### NOTE:
 
