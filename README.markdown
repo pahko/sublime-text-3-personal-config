@@ -15,6 +15,7 @@ Personal config to Sublime Text 3:
 * [Handlebars](https://github.com/daaain/Handlebars)
 * [ApplySyntax](https://github.com/facelessuser/ApplySyntax)
 * [Seti_UI](https://packagecontrol.io/packages/Seti_UI)
+* [SubDpaste](https://github.com/bartTC/SubDpaste)
 
 ##### NOTE:
 
