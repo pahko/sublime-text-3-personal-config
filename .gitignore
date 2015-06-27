@@ -11,5 +11,7 @@ Package Control.ca-certs/
 Package Control.merged-ca-bundle
 Package Control.user-ca-bundle
 
+# backups
+*.bak
 
 /SublimeLinter

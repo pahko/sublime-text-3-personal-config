@@ -10,6 +10,7 @@ Personal config to Sublime Text 3:
 * [`requirements.txt` autocompletion](https://github.com/wuub/requirementstxt)
 * [OmniMarkupPreviewer](http://theo.im/OmniMarkupPreviewer/)
     * [Restructured Text (RST) Snippets](https://github.com/mgaitan/sublime-rst-completion)
+    * [Restructured Test Improved](https://packagecontrol.io/packages/RestructuredText%20Improved)
 * [SASS](https://github.com/nathos/sass-textmate-bundle)
 * [Ghost Text](https://packagecontrol.io/packages/GhostText)
 * [Handlebars](https://github.com/daaain/Handlebars)
