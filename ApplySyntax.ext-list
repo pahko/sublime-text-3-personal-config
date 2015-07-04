@@ -3,6 +3,14 @@
 	[
 		"html.erb"
 	],
+	"INI":
+	[
+		".gitattributes",
+		".gitconfig",
+		".gitignore",
+		".npmrc",
+		"ini.dist"
+	],
 	"JSON":
 	[
 		".csslintrc",

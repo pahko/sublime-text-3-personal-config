@@ -3,7 +3,12 @@ Personal config to Sublime Text 3:
 # Packages
 
 * [Package Control](https://sublime.wbond.net)
-* Django Syntax ([Djaneiro](https://github.com/squ1b3r/Djaneiro))
+* Syntax:
+    * [ApplySyntax](https://github.com/facelessuser/ApplySyntax)
+    * [Djaneiro](https://github.com/squ1b3r/Djaneiro)
+    * [Sublime INI](https://github.com/clintberry/sublime-text-2-ini)
+    * [SASS](https://github.com/nathos/sass-textmate-bundle)
+    * [Handlebars](https://github.com/daaain/Handlebars)
 * [SublimeLinter3](https://github.com/SublimeLinter/SublimeLinter3)
     * [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
 * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)
@@ -11,10 +16,7 @@ Personal config to Sublime Text 3:
 * [OmniMarkupPreviewer](http://theo.im/OmniMarkupPreviewer/)
     * [Restructured Text (RST) Snippets](https://github.com/mgaitan/sublime-rst-completion)
     * [Restructured Test Improved](https://packagecontrol.io/packages/RestructuredText%20Improved)
-* [SASS](https://github.com/nathos/sass-textmate-bundle)
 * [Ghost Text](https://packagecontrol.io/packages/GhostText)
-* [Handlebars](https://github.com/daaain/Handlebars)
-* [ApplySyntax](https://github.com/facelessuser/ApplySyntax)
 * [Seti_UI](https://packagecontrol.io/packages/Seti_UI)
 * [SubDpaste](https://github.com/bartTC/SubDpaste)
 * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
