@@ -14,4 +14,7 @@ Package Control.user-ca-bundle
 # backups
 *.bak
 
+# package settings
 /SublimeLinter
+GitHub.sublime-settings
+

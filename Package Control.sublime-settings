@@ -10,6 +10,7 @@
 		"ApplySyntax",
 		"Djaneiro",
 		"GhostText",
+		"Git",
 		"Handlebars",
 		"OmniMarkupPreviewer",
 		"Package Control",
@@ -20,6 +21,7 @@
 		"Seti_UI",
 		"SideBarEnhancements",
 		"SubDpaste",
+		"sublime-github",
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-flake8"

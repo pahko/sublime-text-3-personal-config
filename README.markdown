@@ -17,7 +17,9 @@ Personal config to Sublime Text 3:
 * [ApplySyntax](https://github.com/facelessuser/ApplySyntax)
 * [Seti_UI](https://packagecontrol.io/packages/Seti_UI)
 * [SubDpaste](https://github.com/bartTC/SubDpaste)
-* [SublimeCodeIntel](SublimeCodeIntel)
+* [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
+* [SublimeGithub](https://github.com/bgreenlee/sublime-github)
+    * [Sublime GIT](https://github.com/kemayo/sublime-text-git)
 
 ##### NOTE:
 
