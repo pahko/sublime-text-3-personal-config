@@ -13,11 +13,14 @@
                 "args": [],
                 "builtins": "",
                 "excludes": [],
-                "ignore": "",
+                "ignore": "E501",
                 "jobs": "1",
                 "max-complexity": 10,
                 "max-line-length": 119,
                 "select": ""
+            },
+            "pep8": {
+                "max-line-length": 119
             }
         },
         "mark_style": "outline",
