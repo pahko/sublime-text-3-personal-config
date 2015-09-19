@@ -22,6 +22,7 @@ Personal config to Sublime Text 3:
 * [SublimeCodeIntel](https://github.com/SublimeCodeIntel/SublimeCodeIntel)
 * [SublimeGithub](https://github.com/bgreenlee/sublime-github)
     * [Sublime GIT](https://github.com/kemayo/sublime-text-git)
+* [GoSublime](https://github.com/DisposaBoy/GoSublime)
 
 ##### NOTE:
 

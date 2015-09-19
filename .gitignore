@@ -16,5 +16,6 @@ Package Control.user-ca-bundle
 
 # package settings
 /SublimeLinter
-GitHub.sublime-settings
-
+/GitHub.sublime-settings
+/GoSublime
+/GoSublime-aux.sublime-settings
