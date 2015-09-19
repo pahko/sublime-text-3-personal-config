@@ -8,6 +8,7 @@
 	"installed_packages":
 	[
 		"ApplySyntax",
+		"Bats (Bash Automated Testing System)",
 		"Djaneiro",
 		"GhostText",
 		"Git",

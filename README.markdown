@@ -23,6 +23,7 @@ Personal config to Sublime Text 3:
 * [SublimeGithub](https://github.com/bgreenlee/sublime-github)
     * [Sublime GIT](https://github.com/kemayo/sublime-text-git)
 * [GoSublime](https://github.com/DisposaBoy/GoSublime)
+* [Bats](https://github.com/jverdeyen/sublime-bats)
 
 ##### NOTE:
 
