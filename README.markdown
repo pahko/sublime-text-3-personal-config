@@ -9,6 +9,7 @@ Personal config to Sublime Text 3:
     * [Sublime INI](https://github.com/clintberry/sublime-text-2-ini)
     * [SASS](https://github.com/nathos/sass-textmate-bundle)
     * [Handlebars](https://github.com/daaain/Handlebars)
+    * [Bracket​Highlighter](https://packagecontrol.io/packages/BracketHighlighter)
 * [SublimeLinter3](https://github.com/SublimeLinter/SublimeLinter3)
     * [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
 * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)

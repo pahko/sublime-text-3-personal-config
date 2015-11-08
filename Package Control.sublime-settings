@@ -1,4 +1,5 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
 	],
@@ -9,6 +10,7 @@
 	[
 		"ApplySyntax",
 		"Bats (Bash Automated Testing System)",
+		"BracketHighlighter",
 		"Djaneiro",
 		"GhostText",
 		"Git",
