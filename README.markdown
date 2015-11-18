@@ -11,6 +11,8 @@ Personal config to Sublime Text 3:
     * [Handlebars](https://github.com/daaain/Handlebars)
     * [Bracket​Highlighter](https://packagecontrol.io/packages/BracketHighlighter)
     * [Nginx](https://github.com/brandonwamboldt/sublime-nginx)
+    * [Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended)
+* Color Schema: [Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended)
 * [SublimeLinter3](https://github.com/SublimeLinter/SublimeLinter3)
     * [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
 * [Sidebar Enhancements](https://github.com/titoBouzout/SideBarEnhancements)

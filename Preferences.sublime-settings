@@ -11,7 +11,7 @@
 	"Seti_tabs_small": true,
 	"bold_folder_labels": true,
 	"caret_extra_width": 2,
-	"color_scheme": "Packages/User/Monokai (SL).tmTheme",
+	"color_scheme": "Packages/Monokai Extended/Monokai Extended.tmTheme",
 	"ensure_newline_at_eof_on_save": true,
 	"font_face": "Monaco",
 	"highlight_line": true,
