@@ -19,5 +19,13 @@
 
     // Put your custom syntax rules here:
     "syntaxes": [
+        // ssh config syntax
+        {
+            "syntax": "SSH Config/SSH Config.tmLanguage",
+            "extensions": ["sshconfig"],
+            "rules": [
+                {"file_path": ".*.ssh/config$"}
+            ]
+        }
     ]
 }

@@ -46,6 +46,10 @@
 	[
 		"haml"
 	],
+	"SSH Config":
+	[
+		"sshconfig"
+	],
 	"Shell-Unix-Generic":
 	[
 		"bash",

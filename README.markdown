@@ -12,6 +12,7 @@ Personal config to Sublime Text 3:
     * [Bracket​Highlighter](https://packagecontrol.io/packages/BracketHighlighter)
     * [Nginx](https://github.com/brandonwamboldt/sublime-nginx)
     * [Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended)
+    * [SSH CONFIG](https://github.com/robballou/sublimetext-sshconfig)
 * Color Schema: [Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended)
 * [SublimeLinter3](https://github.com/SublimeLinter/SublimeLinter3)
     * [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
