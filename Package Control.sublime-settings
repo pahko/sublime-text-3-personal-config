@@ -19,6 +19,7 @@
 		"INI",
 		"Markdown Extended",
 		"Monokai Extended",
+		"nagios-sublime",
 		"nginx",
 		"OmniMarkupPreviewer",
 		"Package Control",
@@ -34,5 +35,9 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-flake8"
+	],
+	"repositories":
+	[
+		"https://github.com/bn0/nagios-sublime"
 	]
 }
