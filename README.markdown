@@ -30,6 +30,7 @@ Personal config to Sublime Text 3:
     * [Sublime GIT](https://github.com/kemayo/sublime-text-git)
 * [GoSublime](https://github.com/DisposaBoy/GoSublime)
 * [Bats](https://github.com/jverdeyen/sublime-bats)
+* [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson)
 
 ##### NOTE:
 
