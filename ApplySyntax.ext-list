@@ -66,5 +66,9 @@
 		".gemrc",
 		"yml",
 		"yml.dist"
+	],
+	"requirementstxt":
+	[
+		"txt"
 	]
 }

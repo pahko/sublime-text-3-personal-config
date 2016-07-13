@@ -26,6 +26,14 @@
             "rules": [
                 {"file_path": ".*.ssh/config$"}
             ]
+        },
+        // advanced support for python requirements file
+        {
+            "syntax": "requirementstxt/requirementstxt.tmLanguage",
+            "extensions": ["txt"],
+            "rules": [
+                {"file_path": ".*requirements\\.txt$"}
+            ]
         }
     ]
 }
