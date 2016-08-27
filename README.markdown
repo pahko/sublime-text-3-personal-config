@@ -31,6 +31,7 @@ Personal config to Sublime Text 3:
 * [GoSublime](https://github.com/DisposaBoy/GoSublime)
 * [Bats](https://github.com/jverdeyen/sublime-bats)
 * [Pretty JSON](https://github.com/dzhibas/SublimePrettyJson)
+* [Origami](https://github.com/SublimeText/Origami)
 
 ##### NOTE:
 
