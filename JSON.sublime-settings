@@ -2,10 +2,10 @@
 	"extensions":
 	[
 		".jshintrc",
-		"geojson",
-		".bowerrc",
 		".jscsrc",
+		"geojson",
 		".eslintrc",
-		".csslintrc"
+		".csslintrc",
+		".bowerrc"
 	]
 }
