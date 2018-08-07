@@ -14,6 +14,7 @@ Personal config to Sublime Text 3:
     * [Markdown Extended](https://github.com/jonschlinkert/sublime-markdown-extended)
     * [SSH CONFIG](https://github.com/robballou/sublimetext-sshconfig)
     * [Sublime nagios](https://github.com/bn0/nagios-sublime)
+    * [Dockerfile](https://github.com/asbjornenge/Docker.tmbundle)
 * Color Schema: [Monokai Extended](https://github.com/jonschlinkert/sublime-monokai-extended)
 * [SublimeLinter3](https://github.com/SublimeLinter/SublimeLinter3)
     * [SublimeLinter-flake8](https://github.com/SublimeLinter/SublimeLinter-flake8)
