@@ -9,7 +9,6 @@
 	"installed_packages":
 	[
 		"ApplySyntax",
-		"Bats (Bash Automated Testing System)",
 		"BracketHighlighter",
 		"Djaneiro",
 		"Dockerfile Syntax Highlighting",
@@ -38,7 +37,8 @@
 		"sublime-github",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-flake8"
+		"SublimeLinter-flake8",
+		"Bats"
 	],
 	"repositories":
 	[
