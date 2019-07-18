@@ -9,6 +9,10 @@
 	"Seti_sb_tree_miny": true,
 	"Seti_sb_tree_small": true,
 	"Seti_tabs_small": true,
+	"binary_file_patterns":
+	[
+		"*.prof"
+	],
 	"bold_folder_labels": true,
 	"caret_extra_width": 2,
 	"color_scheme": "Packages/User/Monokai_SL.tmTheme",
@@ -22,10 +26,11 @@
 		"node_modules/"
 	],
 	"font_face": "Monaco",
-	"font_size": 12,
+	"font_size": 14,
 	"highlight_line": true,
 	"ignored_packages":
 	[
+		"GoSublime",
 		"RestructuredText",
 		"Vintage"
 	],
