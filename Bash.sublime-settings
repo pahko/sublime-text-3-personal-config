@@ -1,7 +1,5 @@
 {
 	"extensions":
 	[
-		".npmrc",
-		"ini.dist"
 	]
 }
