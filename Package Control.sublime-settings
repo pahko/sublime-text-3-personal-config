@@ -2,7 +2,6 @@
 	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"GoSublime"
 	],
 	"installed_dependencies":
 	[
@@ -10,12 +9,13 @@
 	"installed_packages":
 	[
 		"ApplySyntax",
+		"Bats",
 		"BracketHighlighter",
 		"Djaneiro",
 		"Dockerfile Syntax Highlighting",
 		"GhostText",
 		"Git",
-		"GoSublime",
+		"Gofmt",
 		"Handlebars",
 		"INI",
 		"Markdown Extended",
@@ -38,8 +38,7 @@
 		"sublime-github",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-flake8",
-		"Bats"
+		"SublimeLinter-flake8"
 	],
 	"repositories":
 	[
