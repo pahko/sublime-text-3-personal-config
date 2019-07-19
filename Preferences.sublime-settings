@@ -30,7 +30,6 @@
 	"highlight_line": true,
 	"ignored_packages":
 	[
-		"GoSublime",
 		"RestructuredText",
 		"Vintage"
 	],
