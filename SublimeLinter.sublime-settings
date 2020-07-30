@@ -3,7 +3,9 @@
         "paths": {
             "linux": [],
             "osx": [
-                "/Users/pahko/.virtualenvs/sublime/bin/"
+                "/Users/pahko/.virtualenvs/sublime/bin/",
+                "/Users/pahko/.gvm/pkgsets/go1.14.3/global/bin/",
+                "/Users/pahko/.pyenv/versions/3.8.2/envs/sublime/bin/"
             ],
             "windows": []
         },
