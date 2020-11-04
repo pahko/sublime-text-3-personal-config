@@ -10,6 +10,7 @@
 	[
 		"ApplySyntax",
 		"Bats",
+		"Better CoffeeScript",
 		"BracketHighlighter",
 		"Djaneiro",
 		"Dockerfile Syntax Highlighting",
@@ -19,6 +20,7 @@
 		"Handlebars",
 		"INI",
 		"Markdown Extended",
+		"Markdown Table Formatter",
 		"Monokai Extended",
 		"nagios-sublime",
 		"nginx",
@@ -38,7 +40,8 @@
 		"sublime-github",
 		"SublimeCodeIntel",
 		"SublimeLinter",
-		"SublimeLinter-flake8"
+		"SublimeLinter-flake8",
+		"Terraform"
 	],
 	"repositories":
 	[
