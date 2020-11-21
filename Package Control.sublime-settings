@@ -19,6 +19,7 @@
 		"Gofmt",
 		"Handlebars",
 		"INI",
+		"Jinja2",
 		"Markdown Extended",
 		"Markdown Table Formatter",
 		"Monokai Extended",
