@@ -17,6 +17,7 @@
 		"GhostText",
 		"Git",
 		"Gofmt",
+		"GraphQL",
 		"Handlebars",
 		"INI",
 		"Jinja2",
@@ -42,7 +43,8 @@
 		"SublimeCodeIntel",
 		"SublimeLinter",
 		"SublimeLinter-flake8",
-		"Terraform"
+		"Terraform",
+		"TypeScript Syntax"
 	],
 	"repositories":
 	[
